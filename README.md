@@ -7,6 +7,10 @@ All action is the result of the mutual Coulomb Force between all particles prese
 ![Demo GIF](media/example_small.gif)
 
 # Simulation Controls
+- `Left-Click` - Spawn positive charge at cursor
+- `Right-Click` - Spawn negative charge at cursor
+- `Ctrl-Left-Click` - Continuously spawn positive charges at cursor
+- `Ctrl-Right-Click` - Continuously spawn negative charges at cursor
 - `Space` - Play simulation
 - `Escape` - Pause simulation
 - `Up-Arrow` - Increase simulation speed
